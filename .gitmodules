@@ -8,6 +8,11 @@
 	url = https://github.com/aitap/cmocean
 	shallow = true
 	registered = true
+[submodule "depcache"]
+	path = depcache
+	url = https://github.com/aitap/depcache
+	shallow = true
+	registered = true
 [submodule "Ropj"]
 	path = Ropj
 	url = https://github.com/aitap/ropj

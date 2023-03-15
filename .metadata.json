@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "depcache",
+    "oncran": true
+  },
+  {
     "package": "Ropj",
     "oncran": true
   }
