@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Ropj"]
+	path = Ropj
+	url = https://github.com/aitap/ropj
 [submodule "cmocean"]
 	path = cmocean
 	url = https://github.com/aitap/cmocean
 [submodule "depcache"]
 	path = depcache
 	url = https://github.com/aitap/depcache
-[submodule "Ropj"]
-	path = Ropj
-	url = https://github.com/aitap/ropj
