@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RCurl"]
+	path = RCurl
+	url = https://codeberg.org/aitap/rcurl
+[submodule "Ropj"]
+	path = Ropj
+	url = https://codeberg.org/aitap/ropj
+[submodule "XML"]
+	path = XML
+	url = https://codeberg.org/aitap/xml
 [submodule "cmocean"]
 	path = cmocean
 	url = https://github.com/aitap/cmocean
